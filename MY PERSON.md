@@ -2,7 +2,7 @@
 - 👀 I’m interested in gamedev
 - 🌱 I’m currently learning C# 
 - 💞️ I’m looking to collaborate on this time with nobody
-- 📫 How to reach me oliwierboczekdev@gmail.co
+- 📫 How to reach me oliwierboczekdev@gmail.com
 - ⚡ Fun fact: I LOVE CATS!!!
 
 <!---
